@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "everywhere-mobile",
+    "slug": "everywhere-mobile",
+    "scheme": "acme",
+    "runtimeVersion": "exposdk:47.0.0",
+    "web": {
+      "bundler": "metro"
+    },
+    "updates": {
+      "enabled": true,
+      "url": "https://cedric.everywhere.rocks"
+    },
+    "android": {
+      "package": "com.bycedric.mobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bycedric.mobile"
+    }
+  }
+}
